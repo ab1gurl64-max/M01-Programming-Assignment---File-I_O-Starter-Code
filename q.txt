@@ -1,0 +1,8 @@
+Do you think your program will help the study keep track of the research data?
+This program can help the study keep track of their research data by saving information in separate files. Each participant receives a unique ID so they can be identified. The study has a great start of collecting information and the abilty to find information such as how many are experience tiredness
+
+Describe how you might add functionality to calculate the statistics.
+I would add functions to that will read the survey/participent data and count how many symptoms are being experienced such as counting how many are experience sleepiness or feel they can study more. We'll count all and then do the math to calculate the precentage. I would set up constraints so that the data is consistent, example there could be multiple ways of saying yes so you need to ensure that all answers are the same.  
+
+What things do you think will be easier and what things are more difficult using file I/O instead of a database?
+file I/O allows for the ease to save and retrieve information without needing to setup a database. New records can be easily added and smaller information can be searched through. As the information gets bigger, a database could be quicker to filter and find information.
